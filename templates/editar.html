@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Editar Time</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        form {
+            max-width: 600px;
+        }
+
+        label {
+            display: block;
+            margin-top: 12px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 6px;
+            margin-top: 4px;
+        }
+
+        input[type="submit"] {
+            margin-top: 20px;
+            padding: 10px 20px;
+        }
+
+        img {
+            margin-top: 8px;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+    <script>
+        function atualizarImagemUniforme() {
+            const tipo = document.getElementById("uniforme").value.replace(/\s/g, '').toLowerCase();
+            const img = document.getElementById("img_uniforme");
+            if (tipo) {
+                img.src = `/static/uniformes/${tipo}.png`;
+                img.style.display = 'inline';
+            } else {
+                img.src = '';
+                img.style.display = 'none';
+            }
+        }
+
+        function atualizarTaticas() {
+            const paisSelect = document.getElementById("pais");
+            const taticaSelect = document.getElementById("tatica");
+            const paisCodigo = paisSelect.options[paisSelect.selectedIndex].dataset.codigo;
+            const byte1 = paisCodigo.split(" ")[0];
+            const todasTaticas = JSON.parse('{{ todas_taticas|tojson|safe }}');
+            let lista = [];
+            if (byte1 === "21") lista = todasTaticas.A;
+            else if (byte1 === "81") lista = todasTaticas.B;
+            else lista = todasTaticas.Todas;
+
+            taticaSelect.innerHTML = "";
+            lista.forEach(nome => {
+                const opt = document.createElement("option");
+                opt.value = nome;
+                opt.text = nome;
+                taticaSelect.appendChild(opt);
+            });
+
+            // Reaplicar seleção se ainda existir
+            const atual = '{{ dados.tatica }}';
+            if (atual) taticaSelect.value = atual;
+        }
+    </script>
+</head>
+<body>
+    <h1>Editando Time: {{ hex_id }}</h1>
+    <form method="POST" action="{{ url_for('salvar', hex_id=hex_id) }}">
+        <label>Nome:</label>
+        <input type="text" name="nome" value="{{ dados.nome }}">
+
+        <label>Nome Completo:</label>
+        <input type="text" name="nome_completo" value="{{ dados.nome_completo }}">
+
+        <label>Estádio:</label>
+        <input type="text" name="estadio" value="{{ dados.estadio }}">
+
+        <label>Técnico:</label>
+        <input type="text" name="tecnico" value="{{ dados.tecnico }}">
+
+        <label>Dinheiro:</label>
+        <select name="dinheiro">
+            <option value="" {% if not dados.dinheiro %}selected{% endif %}></option>
+            {% for nome in dinheiro_opcoes %}
+            <option value="{{ nome }}" {% if nome == dados.dinheiro %}selected{% endif %}>{{ nome }}</option>
+            {% endfor %}
+        </select>
+
+        <label>Cor 1 (Casa):</label>
+        <input type="color" name="cor1" value="{{ dados.cor1 }}">
+
+        <label>Cor 2 (Casa):</label>
+        <input type="color" name="cor2" value="{{ dados.cor2 }}">
+
+        <label>Cor 1 (Fora):</label>
+        <input type="color" name="cor1_fora" value="{{ dados.cor1_fora }}">
+
+        <label>Cor 2 (Fora):</label>
+        <input type="color" name="cor2_fora" value="{{ dados.cor2_fora }}">
+
+        <label>Uniforme:</label>
+        <select name="uniforme" id="uniforme" onchange="atualizarImagemUniforme()">
+            <option value="">-- selecione --</option>
+            {% for nome in uniformes %}
+            <option value="{{ nome }}" {% if nome == dados.uniforme %}selected{% endif %}>{{ nome }}</option>
+            {% endfor %}
+        </select>
+        <img id="img_uniforme" src="" style="width:60px; height:60px; vertical-align: middle; display: none;" alt="Uniforme">
+
+        <label>País:</label>
+        <select name="pais" id="pais" onchange="atualizarTaticas()">
+            {% for nome, cod in paises.items() %}
+            <option value="{{ nome }}" data-codigo="{{ cod }}" {% if nome == dados.pais %}selected{% endif %}>{{ nome }}</option>
+            {% endfor %}
+        </select>
+
+        <label>Tática:</label>
+        <select name="tatica" id="tatica">
+            <option value="">-- selecione --</option>
+            {% for nome in taticas_disponiveis %}
+            <option value="{{ nome }}" {% if nome == dados.tatica %}selected{% endif %}>{{ nome }}</option>
+            {% endfor %}
+        </select>
+
+        <input type="submit" value="Salvar">
+    </form>
+    <p><a href="{{ url_for('index') }}">← Voltar</a></p>
+
+    <script>
+        atualizarImagemUniforme();
+        atualizarTaticas();
+    </script>
+</body>
+</html>

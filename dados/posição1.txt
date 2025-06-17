@@ -1,0 +1,72 @@
+NADA/ 00 00
+DE/ 03 00
+DD/ 0C 00
+DC/ 30 00
+VL/ C0 00
+MC/ 00 03
+ME/ 00 0C
+MD/ 00 30
+MA/ 00 C0
+(DE)/ 02 00
+(DC)/ 20 00
+(DD)/ 08 00
+(VL)/ 80 00
+(MC)/ 00 02
+(ME)/ 00 09
+(MD)/ 00 20
+(MA)/ 00 83
+DE DC/ 33 00
+DE DC (DD)/ 3B 00
+DE DC VL/ F3 00
+DE DC (VL)/ B3 00
+DE (DC)/ 23 00
+DE (DC) (DD)/ 2B 00
+DE (DC) (VL)/ A3 00
+DE (DD)/ 0B 00
+DE DD/ 0F 00
+DE DD (VL)/ 8F 00
+(DE) (DC)/ 22 00
+DC (DE) (DD)/ 3A 00
+DC (DE)/ 32 00
+DC DD/ 3C 00
+DC DD (DE) (VL)/ BE 00
+DC (DD)/ 38 00
+DC (DD) (VL)/ B8 00
+DC VL/ F0 00
+DC (VL)/ B0 00
+(DC) (DD)/ 28 00
+DD VL (DC)/ EC 00
+DD (DC)/ 2C 00
+DD (VL)/ 8C 00
+DD (MD)/ 0C 20
+VL (DC)/ E0 00
+VL MC/ C0 03
+VL MC (DE)/ C2 03
+(VL) MC/ 80 03
+MC MA/ 00 C3
+MC MA (ME) (MD)/ 00 EB
+MC MA (MD)/ 00 E3
+MC (DD) (MD)/ 08 23
+MC (MA)/ 00 83
+MC (ME)/ 00 0B
+MC (ME) (MD) (MA)/ 00 AB
+MC (MD) (MA)/ 00 A3
+(MC) (MD)/ 00 22
+ME MC MA/ 00 CF
+ME (MC)/ 00 0E
+ME MC MD MA/ 00 FF
+ME MD (MC) (MA)/ 00 BE
+ME MD (MA)/ 00 BC
+(ME) (MA)/ 00 88
+(ME) (MC) (MA)/ 00 8A
+(ME) (MD)/ 00 28
+(ME) (MD) (MA)/ 00 A8
+MD MA (MC)/ 00 F2
+MD (MC) (MA)/ 00 B2
+MD (ME)/ 00 38
+MD (MA)/ 00 B0
+(MD) (MA)/ 00 A0
+MA (MC) (MD)/ 00 E2
+MA (ME)/ 00 CB
+MA (ME) (MC)/ 00 CA
+MA (ME) (MC) (MD)/ 00 EA

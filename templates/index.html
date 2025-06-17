@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Editor de Times</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        input[type="text"] {
+            padding: 6px;
+            width: 200px;
+        }
+
+        input[type="submit"] {
+            padding: 6px 12px;
+        }
+
+        .links-topo {
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .mensagem {
+            color: red;
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .id-nome {
+            display: inline-block;
+            width: 250px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="links-topo">
+        <a href="{{ url_for('upload') }}">📤 Fazer Upload de Arquivo</a> |
+        <a href="{{ url_for('baixar') }}">📥 Baixar Arquivo Atual</a>
+    </div>
+
+    <form method="get" action="{{ url_for('index') }}">
+        <input type="text" name="busca" placeholder="Buscar time..." value="{{ busca }}">
+        <input type="submit" value="Buscar">
+    </form>
+
+    <h1>Lista de Times</h1>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <div class="mensagem">
+          {% for message in messages %}
+            <p>{{ message }}</p>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <ul>
+        {% for time in times %}
+        <li>
+            <span class="id-nome">{{ time.id }} - {{ time.nome }}</span>
+            <a href="{{ url_for('editar', hex_id=time.id) }}">Editar</a>
+        </li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>

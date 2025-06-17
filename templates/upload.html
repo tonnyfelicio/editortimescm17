@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload de Arquivo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        input[type="file"] {
+            padding: 6px;
+        }
+
+        input[type="submit"] {
+            padding: 8px 16px;
+            margin-top: 10px;
+        }
+
+        .mensagem {
+            color: red;
+            margin-bottom: 10px;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload de Arquivo .png</h1>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <div class="mensagem">
+          {% for message in messages %}
+            <p>{{ message }}</p>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="arquivo" accept=".png">
+        <br>
+        <input type="submit" value="Enviar">
+    </form>
+
+    <p><a href="{{ url_for('index') }}">Voltar à lista</a></p>
+</body>
+</html>

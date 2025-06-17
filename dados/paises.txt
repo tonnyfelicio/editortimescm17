@@ -1,0 +1,160 @@
+África do Sul/ 01 20
+Albânia/ 01 2A
+Alemanha/ 01 11
+Andorra/ 01 3B
+Angola/ 81 27
+Arábia/ 81 3C
+Argélia/ 01 0D
+Argentina/ 81 20
+Armênia/ 81 2A
+Austrália/ 01 1B
+Áutria/ 01 38
+Azerbaijão/ 01 3D
+Bangladesh/ 01 65
+Barbados/ 01 4B
+Bélgica/ 01 21
+Benin/ 01 42
+Bermudas/ 01 40
+Bielorússia/ 81 35
+Birmânia/ 01 66
+Bolívia/ 01 0C
+Bósnia/ 01 08
+Botsuana/ 81 43
+Bulgária/ 81 0B
+Burkina Faso/ 81 33
+Burúndi/ 81 38
+Butão/ 81 65
+Brasil/ 81 06
+Cabo Verde/ 81 46
+Camarões/ 81 25
+Camboja/ 01 3F
+Canadá/ 01 2B
+Catar/ 81 49
+Cazaquistão/ 01 3C
+Chade/ 01 37
+Chile/ 81 14
+China/ 81 0D
+Chipre/ 01 22
+Cingapura/ 81 0F
+Colômbia/ 01 14
+Congo/ 01 35
+Congo RP/ 81 36
+Coréia do Norte/ 81 4F
+Coréia do Sul/ 81 1D
+Costa do Marfim/ 81 31
+Costa Rica/ 81 19
+Croácia/ 01 16
+Dinamarca/ 81 07
+Dominicana/ 01 4A
+Egito/ 81 1C
+Equador/ 01 25
+El Salvador/ 81 45
+Emirados/ 81 42
+Escócia/ 01 05
+Eslováquia/ 81 0A
+Eslovênia/ 81 13
+Espanha/ 81 1F
+Estados Unidos/ 81 1E
+Estônia/ 81 2B
+Etiópia/ 01 44
+Finlândia/ 81 0E
+França/ 81 10
+Gabão/ 01 48
+Gâmbia/ 01 34
+Gana/ 81 1B
+Geórgia/ 01 17
+Granada/ 81 48
+Grécia/ 81 21
+Groelândia/ 81 30
+Guadalupe/ 81 4C
+Guam/ 81 51
+Guatemala/ 01 26
+Guiana/ 01 33
+Guiné/ 01 31
+Guiné-Bissau/ 01 3A
+Haiti/ 81 3A
+Holanda/ 81 05
+Honduras/ 01 0E
+Hong Kong/ 01 1E
+Hungria/ 81 22
+Ilhas Antilhas/ 81 52
+Ilhas Cayman/ 81 4A
+Ilhas Faroé/ 01 2C
+Ilhas Fiji/ 01 4D
+Ilhas Salomão/ 01 51
+Índia/ 81 4B
+Inglaterra/ 01 04
+Irã/ 01 1C
+Irlanda/ 01 13
+Irlanda do Norte/ 81 23
+Islândia/ 01 09
+Israel/ 81 12
+Itália/ 81 04
+Jamaica/ 81 2C
+Japão/ 81 26
+Laos/ 81 40
+Lesoto/ 01 4F
+Letônia/ 81 17
+Líbano/ 81 4E
+Libéria/ 01 2D
+Líbia/ 81 3F
+Liechtenstein/ 81 3E
+Lituânia/ 01 23
+Luxemburgo/ 81 2D
+Macedônia/ 81 09
+Madagascar/ 81 47
+Malásia/ 01 50
+Malawi/ 81 44
+Mali/ 81 34
+Malta/ 01 12
+Marrocos/ 01 1F
+Maurícius/ 01 45
+México/ 81 0C
+Moçambique/ 01 2E
+Moldávia/ 01 18
+Namíbia/ 81 2E
+Nepal/ 81 4D
+Nigéria/ 01 1D
+Noruega/ 81 11
+Omã/ 01 52
+País de Gales/ 01 30
+Panamá/ 01 32
+Papua/ 01 4C
+Paraguai/ 81 15
+Peru/ 01 1A
+Polônia/ 01 0A
+Portugal/ 01 07
+Quênia/ 01 0F
+Quirguistão/ 81 50
+Romênia/ 81 18
+Ruanda/ 01 46
+Rússia/ 01 24
+San Marino/ 01 47
+Santa Lúcia/ 01 3E
+São Cristóvão/ 01 4E
+São Tomé/ 01 41
+Senegal/ 81 32
+Serra Leoa/ 01 28
+Sérvia/ 81 24
+Síria/ 01 36
+Suazilândia/ 01 43
+Suécia/ 01 06
+Suíça/ 01 0B
+Suriname/ 81 37
+Tailandia/ 81 2F
+Tajiquistão/ 81 39
+Tchéquia/ 81 08
+Togo/ 01 29
+Trinidad Tobago/ 01 10
+Tunísia/ 01 27
+Turcomenistão/ 81 3D
+Turquia/ 01 15
+Ucrânia/ 01 19
+Uganda/ 01 49
+Uruguai/ 81 1A
+Uzbequistão/ 01 39
+Venezuela/ 81 16
+Vicente/ 81 3B
+Vietnã/ 81 66
+Zâmbia/ 81 29
+Zimbabwe/ 81 28

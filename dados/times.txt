@@ -1,0 +1,1021 @@
+0100: K'lautern
+0200: Köln
+0300: Nürnberg
+0400: Slovácko
+0500: Union Berlin
+0600: Brno
+0700: AEK
+0800: Argentinos
+0900: Académica
+0A00: Ponte Preta
+0B00: Aalborg
+0C00: Aalesund
+0D00: Aberdeen
+0E00: AC Ajaccio
+0F00: Chievo
+1000: Horsens
+1100: Milan
+1200: Perugia
+1300: Accrington
+1400: Alcorcón
+1500: Fafe
+1600: Adana Demirspor
+1700: Adanaspor
+1800: Adelaide United
+1900: Den Haag
+1A00: Bournemouth
+1B00: Aarhus GF
+1C00: AIK
+1D00: Airdrie
+1E00: Auxerre
+1F00: Ajax
+2000: Albacete
+2100: AlbinoLeffe
+2200: Albion
+2300: Aldershot
+2400: Alloa
+2500: América
+2600: América MG
+2700: Amiens SC
+2800: Amkar
+2900: Antalyaspor
+2A00: FC Seoul
+2B00: Anzhi
+2C00: Arka
+2D00: Arminia Bielefeld
+2E00: Arsenal
+2F00: Arsenal
+3000: Arsenal Tula
+3100: Monaco
+3200: Nancy
+3300: Roma
+3400: Saint-Etienne
+3500: Ascoli
+3600: Rafaela
+3700: Aston Villa
+3800: Atalanta
+3900: Athletic Bilbao
+3A00: Atlas
+3B00: Atlético MG
+3C00: Atlético PR
+3D00: Avaí
+3E00: Avellino
+3F00: Avispa
+4000: Ayr Utd
+4100: AZ
+4200: Bari
+4300: Barnet
+4400: Barnsley
+4500: Leverkusen
+4600: Osmanlispor
+4700: Benevento
+4800: Beşiktaş
+4900: Birmingham
+4A00: Häcken
+4B00: Blackburn
+4C00: Blackpool
+4D00: Boavista
+4E00: FK Bokelj Kotor
+4F00: Bologna
+5000: Bolton
+5100: Borac Čačak
+5200: Dortmund
+5300: M'gladbach
+5400: Botafogo
+5500: Bourg-en-Bresse
+5600: Bradford
+5700: Brechin
+5800: Brentford
+5900: Brescia
+5A00: Brighton
+5B00: Central Coast Mariners
+5C00: Bristol C
+5D00: Bristol R
+5E00: Brøndby
+5F00: Young Boys
+6000: Jeju
+6100: Budućnost Podgorica
+6200: Burnley
+6300: Bursaspor
+6400: Burton
+6500: Bury
+6600: Emmen
+6700: Banfield
+6800: Belgrano
+6900: Boca Juniors
+6A00: Huracán
+6B00: Independiente
+6C00: Lanús
+6D00: Newell's
+6E00: Nueva Chicago
+6F00: Osasuna
+7000: River Plate
+7100: Central
+7200: San Lorenzo
+7300: Talleres de Córdoba
+7400: Unión
+7500: Vélez
+7600: Cádiz
+7700: Cagliari
+7800: Cambridge Utd
+7900: Cardiff
+7A00: Carlisle
+7B00: Catania
+7C00: Rizespor
+7D00: Desp. Aves
+7E00: Feirense
+7F00: Leganés
+8000: Mirandés
+8100: Nacional
+8200: Numancia
+8300: Santa Clara
+8400: Tenerife
+8500: Sabadell
+8600: Ceará
+8700: Celtic
+8800: Dijon
+8900: Cesena
+8A00: Belenenses
+8B00: Atromitos
+8C00: Niort
+8D00: Charlton
+8E00: Chelsea
+8F00: Cheltenham
+9000: Chemnitz
+9100: Chesterfield
+9200: Jeonbuk
+9300: Chornomorets
+9400: Jeonnam
+9500: Cibalia
+9600: Palermo
+9700: Cittadella
+9800: Clermont
+9900: Atlético Madrid
+9A00: Peñarol
+9B00: River Plate
+9C00: Olimpo
+9D00: Náutico
+9E00: Cobresal
+9F00: Colchester
+A000: Colo Colo
+A100: Colón
+A200: Córdoba
+A300: Coritiba
+A400: Coventry
+A500: Flamengo
+A600: Vasco da Gama
+A700: Cracovia
+A800: Cremonese
+A900: Crewe
+AA00: Criciúma
+AB00: Crotone
+AC00: Cruz Azul
+AD00: Cruzeiro
+AE00: Red Star
+AF00: Crystal Palace
+B000: Marítimo
+B100: CSKA Moscow
+B200: FK Čukarički
+B300: Dagenham
+B400: Danubio
+B500: Defensa y Justicia
+B600: Defensor Sporting
+B700: Denizlispor
+B800: Alavés
+B900: Derby
+BA00: Dinamo Moscow
+BB00: Dinamo
+BC00: Djurgården
+BD00: Dnipro
+BE00: Doncaster
+BF00: Dumbarton
+C000: Dundee
+C100: Dundee Utd
+C200: Dunfermline
+C300: Dresden
+C400: Dynamo
+C500: East Fife
+C600: Vitória
+C700: Braunschweig
+C800: Eintracht Frankfurt
+C900: Elazigspor
+CA00: Elche
+CB00: Elfsborg
+CC00: Empoli
+CD00: Guingamp
+CE00: Kayserispor
+CF00: Troyes
+D000: Esbjerg
+D100: Bahia
+D200: Estoril
+D300: Estudiantes
+D400: Eupen
+D500: Everton
+D600: Excelsior
+D700: Exeter
+D800: Falkenberg
+D900: Falkirk
+DA00: Barcelona
+DB00: FC Basel
+DC00: Bayern Munich
+DD00: Bohemians 1905
+DE00: Den Bosch
+DF00: Dordrecht
+E000: Aue
+E100: Bordeaux
+E200: Groningen
+E300: Rostock
+E400: Inter Turku
+E500: Inter
+E600: FC København
+E700: Lahti
+E800: Lorient
+E900: Luzern
+EA00: Príbram
+EB00: FC Metz
+EC00: Midtjylland
+ED00: Nantes
+EE00: P. Ferreira
+EF00: Penafiel
+F000: Porto
+F100: Schalke
+F200: Sion
+F300: Sochaux
+F400: St. Gallen
+F500: FC Zlín
+F600: Thun
+F700: Twente
+F800: Utrecht
+F900: Vaduz
+FA00: Viktoria Plzen
+FB00: Vizela
+FC00: Volendam
+FD00: Zwolle
+FE00: Fenerbahçe SK
+FF00: Feyenoord
+0001: Figueirense
+0101: Fiorentina
+0201: Austria Vienna
+0301: Bodø/Glimt
+0401: Haugesund
+0501: Jablonec
+0601: Mladá Boleslav
+0701: Teplice
+0801: Fluminense
+0901: Forest Green
+0A01: Fortuna
+0B01: Frosinone
+0C01: Mainz
+0D01: Fulham
+0E01: Galatasaray
+0F01: GFC Ajaccio
+1001: Gaziantepspor
+1101: Chaves
+1201: Gefle
+1301: Gençlerbirliği
+1401: Genoa
+1501: Getafe
+1601: Sundsvall
+1701: Gil Vicente
+1801: Gillingham
+1901: Gimnasia LP
+1A01: Gimnàstic
+1B01: Girona
+1C01: Go Ahead
+1D01: Godoy Cruz
+1E01: Goiás
+1F01: Górnik Łęczna
+2001: Göztepe
+2101: Grasshoppers
+2201: Ebbsfleet
+2301: Grbalj
+2401: Morton
+2501: Grêmio
+2601: Grimsby
+2701: Chivas
+2801: Hajduk
+2901: Halifax
+2A01: Hamburg
+2B01: Hamilton
+2C01: Hammarby
+2D01: Hannover
+2E01: H. Tel-Aviv
+2F01: Hartlepool
+3001: Hearts
+3101: Verona
+3201: Helmond Sport
+3301: Helsingborg
+3401: Heracles
+3501: Hércules
+3601: Hertha BSC
+3701: SønderjyskE
+3801: Hibs
+3901: HJK Helsinki
+3A01: Kiel
+3B01: Huddersfield
+3C01: Hull
+3D01: IFK Göteborg
+3E01: MIFK
+3F01: Norrköping
+4001: Start
+4101: Incheon
+4201: Inter
+4301: Inverness
+4401: Ipswich
+4501: Iraklis
+4601: Istanbul BFK
+4701: Jagiellonia
+4801: Chiapas
+4901: FK Javor
+4A01: Jedinstvo Bijelo Polje
+4B01: Joinville
+4C01: Juventus
+4D01: Kalmar
+4E01: Karlsruhe
+4F01: Karpaty
+5001: Karşıyaka
+5101: Kawasaki Frontale
+5201: Erciyesspor
+5301: Kerkyra
+5401: Kilmarnock
+5501: Konyaspor
+5601: Krylya Sovetov
+5701: Kuban
+5801: KuPS
+5901: Kortrijk
+5A01: Mechelen
+5B01: Oostende
+5C01: Châteauroux
+5D01: Latina
+5E01: Le Havre
+5F01: Lech
+6001: Leeds
+6101: Legia
+6201: Leicester
+6301: Leixões
+6401: León
+6501: Levadiakos
+6601: Levante
+6701: Leyton Orient
+6801: Lille
+6901: Lillestrøm
+6A01: Lincoln City
+6B01: Mordovia
+6C01: Liverpool
+6D01: Livingston
+6E01: Lokomotiv
+6F01: Londrina
+7001: Luch-Energia
+7101: Luton
+7201: M. Haifa
+7301: M. Tel-Aviv
+7401: Macclesfield
+7501: Málaga
+7601: Malmö
+7701: Man City
+7801: Man Utd
+7901: Mansfield
+7A01: Melbourne Victory
+7B01: Mersin IY
+7C01: FK Metalac
+7D01: Middlesbrough
+7E01: Millwall
+7F01: Pogoń
+8001: Mladost
+8101: Molde
+8201: Morelia
+8301: Monterrey
+8401: Wanderers
+8501: Montpellier
+8601: Morecambe
+8701: Moreirense
+8801: Motherwell
+8901: Duisburg
+8A01: MVV Maastricht
+8B01: NAC
+8C01: Napoli
+8D01: Napredak
+8E01: NEC
+8F01: Necaxa
+9001: Newcastle Jets
+9101: Newcastle
+9201: Northampton
+9301: Norwich
+9401: Nottm Forest
+9501: Notts County
+9601: Novara
+9701: Odense
+9801: Odd Grenland
+9901: Nice
+9A01: Oldham
+9B01: Olympiakos
+9C01: Marseille
+9D01: Lyon
+9E01: Omiya Ardija
+9F01: Örebro
+A001: Osijek
+A101: Oxford Utd
+A201: Pachuca
+A301: P.A.O
+A401: Panionios
+A501: PAOK
+A601: Paraná
+A701: PSG
+A801: Parma
+A901: Brisbane Roar
+AA01: Partick
+AB01: Partizan
+AC01: Giannina
+AD01: Perth Glory
+AE01: Pescara
+AF01: Peterborough
+B001: Peterhead
+B101: OFK Petrovac
+B201: Piast Gliwice
+B301: Pisa
+B401: Plymouth
+B501: Pohang
+B601: Port Vale
+B701: Portimonense
+B801: Portsmouth
+B901: Preston
+BA01: PSV
+BB01: Puebla
+BC01: Istra
+BD01: QoS
+BE01: Queen's Park
+BF01: QPR
+C001: Querétaro
+C101: Quilmes
+C201: Racing Club
+C301: Rad
+C401: FK Radnički Niš
+C501: Raith
+C601: Rangers
+C701: Rayo Vallecano
+C801: Celta
+C901: Deportivo
+CA01: Lens
+CB01: Recreativo
+CC01: Strasbourg
+CD01: Espanyol
+CE01: Mallorca
+CF01: Reading
+D001: Real Betis
+D101: Real Jaén
+D201: Real Madrid
+D301: Real Murcia
+D401: Racing Santander
+D501: Real Sociedad
+D601: Sporting Gijón
+D701: Valladolid
+D801: R. Zaragoza
+D901: Rijeka
+DA01: Rio Ave
+DB01: RKC
+DC01: Rochdale
+DD01: Roda
+DE01: RoPS
+DF01: Rosenborg
+E001: Ross County
+E101: FC Rostov
+E201: Rotherham
+E301: Rubin
+E401: Ruch
+E501: Rudar
+E601: Sagan Tosu
+E701: Salernitana
+E801: Samsunspor
+E901: San Martín SJ
+EA01: Santa Cruz
+EB01: Santos
+EC01: Santos Laguna
+ED01: São Paulo
+EE01: Eindhoven
+EF01: Braga
+F001: Cambuur
+F101: Real Braziliano
+F201: Freamunde
+F301: Freiburg
+F401: Heerenveen
+F501: Internacional
+F601: Olhanense
+F701: Volyn
+F801: Angers
+F901: Scunthorpe
+FA01: Eibar
+FB01: Ponferradina
+FC01: Palmeiras
+FD01: Seongnam
+FE01: Sevilla
+FF01: Shakhtar
+0002: Sheff Utd
+0102: Sheff Wed
+0202: Shinnik
+0302: Shonan Bellmare
+0402: Shrewsbury
+0502: Silkeborg
+0602: Sivasspor
+0702: Brann
+0802: Hradec Králové
+0902: Sturm Graz
+0A02: Rapid Vienna
+0B02: SKA-Energiya
+0C02: Xanthi
+0D02: Benfica
+0E02: Slaven Belupo
+0F02: Slavia Prague
+1002: Slovan Liberec
+1102: Caen
+1202: SPAL
+1302: Sogndal
+1402: Southampton
+1502: Southend
+1602: Sparta Prague
+1702: Sparta Rotterdam
+1802: Spartak Moscow
+1902: Spezia
+1A02: Sport Recife
+1B02: SC Bastia
+1C02: Sporting Covilhã
+1D02: Sporting
+1E02: Greuther Fürth
+1F02: Lazio
+2002: Regensburg
+2102: St. Johnstone
+2202: St. Mirren
+2302: Stabæk
+2402: Brest
+2502: Reims
+2602: Laval
+2702: Rennes
+2802: S'housemuir
+2902: Stevenage
+2A02: Stockport
+2B02: Stoke
+2C02: Telstar
+2D02: Stranraer
+2E02: Strømsgodset
+2F02: Sunderland
+3002: Sutjeska
+3102: Suwon
+3202: Mattersburg
+3302: Ried
+3402: Werder Bremen
+3502: Salzburg
+3602: Swindon
+3702: Sydney FC
+3802: Telford
+3902: Terek Grozny
+3A02: Ternana
+3B02: Toluca
+3C02: Tom Tomsk
+3D02: Torino
+3E02: Torquay
+3F02: Tottenham
+4002: Toulouse
+4102: Tours
+4202: Trabzonspor
+4302: Tranmere
+4402: Tromsø
+4502: 1860 Munich
+4602: Tigres
+4702: Sampdoria
+4802: Almería
+4902: Las Palmas
+4A02: Udinese
+4B02: Lleida
+4C02: Ulsan
+4D02: Pumas
+4E02: União Madeira
+4F02: U. Española
+5002: Universidad Católica
+5102: Uni de Chile
+5202: Créteil
+5302: Lecce
+5402: Valencia
+5502: Valenciennes
+5602: Vålerenga
+5702: Varese
+5802: Varzim
+5902: De Graafschap
+5A02: Vegalta Sendai
+5B02: Ventforet
+5C02: Veracruz
+5D02: Manisaspor
+5E02: Admira
+5F02: Stuttgart
+6002: Bochum
+6102: Osnabrück
+6202: Wolfsburg
+6302: Viborg
+6402: Vicenza
+6502: Viking
+6602: Villarreal
+6702: Vitesse
+6802: Vit. Guimarães
+6902: Vit. Setubal
+6A02: FK Vojvodina
+6B02: Vorskla
+6C02: VPS Vaasa
+6D02: VVV
+6E02: Walsall
+6F02: Watford
+7002: West Brom
+7102: West Ham
+7202: Wigan
+7302: Willem II
+7402: Milton Keynes
+7502: Wisła
+7602: Płock
+7702: Woking
+7802: Wolves
+7902: Wrexham
+7A02: Wycombe
+7B02: Yeovil
+7C02: York
+7D02: Zagłębie
+7E02: Zorja
+7F02: Voždovac
+8002: Zenit
+8102: Zeta
+8202: Zirka
+8302: Zulte
+8402: Randers
+8502: Sassuolo
+8602: Lugano
+8702: Waasland
+8802: Paderborn
+8902: Preußen
+8A02: Sarmiento
+8B02: Temperley
+8C02: Tigre
+8D02: Crawley
+8E02: Welling Utd
+8F02: Dover
+9002: Newport
+9102: Sutton Utd
+9202: Maidenhead
+9302: Braintree
+9402: Barrow
+9502: Altrincham
+9602: Dartford
+9702: AFC Wimbledon
+9802: Maidstone
+9902: Gateshead
+9A02: Guiseley
+9B02: North Ferriby
+9C02: Boreham Wood
+9D02: Bromley
+9E02: Eastleigh
+9F02: Sarpsborg
+A002: Swansea
+A102: Albirex Niigata
+A202: Atlético Nacional
+A302: Junior
+A402: Deportivo Cali
+A502: Millonarios
+A602: FC Tokyo
+A702: Gamba Osaka
+A802: Santa Fe
+A902: Jubilo Iwata
+AA02: Kashima Antlers
+AB02: Kashiwa Reysol
+AC02: Nagoya Grampus
+AD02: Nîmes
+AE02: Sanfrecce Hiroshima
+AF02: Urawa Reds
+B002: Vissel Kobe
+B102: Yokohama F Marinos
+B202: Düsseldorf
+B302: Fortuna Köln
+B402: Sandhausen
+B502: Magdeburg
+B602: Zwickau
+B702: Hallescher
+B802: FSV Frankfurt
+B902: SV Darmstadt 98
+BA02: Würzburger Kickers
+BB02: St. Pölten
+BC02: Altach
+BD02: St. Pauli
+BE02: Libertad
+BF02: Cerro Porteño
+C002: Olimpia
+C102: Guaraní
+C202: Nacional
+C302: Eskişehirspor
+C402: Sariyer
+C502: Karabükspor
+C602: Hatayspor
+C702: Gaziantep BB
+C802: Şanlıurfa
+C902: Emelec
+CA02: El Nacional
+CB02: Barcelona SC
+CC02: Alianza Lima
+CD02: Universitario de Depor
+CE02: Sporting Cristal
+CF02: Melgar
+D002: Steaua Bucharest
+D102: Újpest
+D202: Ferencváros
+D302: MTK
+D402: Široki Brijeg
+D502: APOEL
+D602: Gorica
+D702: Maribor
+D802: Olimpija
+D902: Koper
+DA02: Dinamo Bucharest
+DB02: VMFD Žalgiris
+DC02: FK Atlantas
+DD02: Irtysh Pavlodar
+DE02: Debrecen
+DF02: Flora
+E002: Levadia
+E102: Trans
+E202: AEL
+E302: Anorthosis
+E402: Omonia
+E502: Sarajevo
+E602: Željo
+E702: BATE
+E802: Dinamo Minsk
+E902: Neman Grodno
+EA02: Shakhtyor Soligorsk
+EB02: Partizani Tirana
+EC02: The Strongest
+ED02: Club Bolívar
+EE02: Oriente Petrolero
+EF02: Deportivo Táchira
+F002: Caracas FC
+F102: Mineros de Guayana
+F202: San José
+F302: Zob Ahan
+F402: Al-Qadisiya
+F502: Al-Sadd
+F602: Sepahan
+F702: Hougang United
+F802: Nasaf Qarshi
+F902: Warriors FC
+FA02: Al-Ain
+FB02: Chongqing
+FC02: Belshyna Babruisk
+FD02: Torpedo Zhodino
+FE02: Slavia Mozyr
+FF02: FK Vitebsk
+0003: Brest
+0103: Naftan
+0203: Trujillanos FC
+0303: Flamurtari Vlorë
+0403: Anderlecht
+0503: Club Brugge
+0603: Standard
+0703: Gent
+0803: KSC Lokeren
+0903: Sint-Truiden
+0A03: Charleroi
+0B03: Sloboda
+0C03: Zrinjski
+0D03: Čelik
+0E03: Apollon
+0F03: Ethnikos
+1003: AEK
+1103: Anagennisi
+1203: Doxa
+1303: Videoton
+1403: FK Tobol
+1503: FK Atyrau
+1603: FK Aktobe
+1703: FK Ordabasy
+1803: FK Taraz
+1903: FK Okzhetpes
+1A03: FK Skakhtyor
+1B03: Zhetysu
+1C03: FC Riga
+1D03: FK Sūduva
+1E03: Celje
+1F03: Domžale
+2003: Hranit Mikashevichy
+2103: Radnik
+2203: Olimpic Sarajevo
+2303: Nea Salamis
+2403: Aris
+2503: Ermis Aradippou
+2603: Tammeka
+2703: FC Pärnu
+2803: Honvéd
+2903: Vasas
+2A03: Jelgava
+2B03: FK Lietava Jonava
+2C03: FK Utenis Utena
+2D03: Zamora FC
+2E03: Rudar Velenje
+2F03: NK Aluminij
+3003: Krško
+3103: Liaoning Whowin
+3203: Shandong Luneng
+3303: Beijing Guoan
+3403: Beijing Renhe
+3503: Tianjin Teda
+3603: Foolad FC
+3703: Al-Ettifaq
+3803: Najran SC
+3903: Woodlands
+3A03: Young Lions
+3B03: Tampines Rovers
+3C03: Balestier
+3D03: Tanjong Pagar United
+3E03: Pakhtakor Tashkent
+3F03: Lokomotiv Tashkent
+4003: Bunyodkor
+4103: DPMM FC
+4203: Geylang
+4303: Albirex Niigata SFC
+4403: Al-Nasr
+4503: Al-Nasr
+4603: Al-Hilal
+4703: Al-Ahli (Jeddah)
+4803: Al-Ittihad
+4903: Al-Wahda
+4A03: Al-Shabab
+4B03: Al-Raed
+4C03: Aldosivi
+4D03: Atlético
+4E03: Erfurt
+4F03: Augsburg
+5003: 1899 Hoffenheim
+5103: Aalen
+5203: SV Wehen
+5303: Bragantino
+5403: Nacional
+5503: Lyngby
+5603: PK-35
+5703: Evian
+5803: Real Oviedo
+5903: Reus Deportiu
+5A03: Ural Sverdlovsk
+5B03: Southport
+5C03: Juve Stabia
+5D03: Larissa
+5E03: Veria
+5F03: Korona
+6003: Stal K.
+6103: Paris FC
+6203: Genk
+6303: Westerlo
+6403: Ac. Viseu
+6503: MFK Karviná
+6603: Orléans
+6703: Red Star
+6803: Olexandria
+6903: Akhisar Bld.
+6A03: Altınordu
+6B03: Bandırma
+6C03: Boluspor
+6D03: Fethiye
+6E03: Giresunspor
+6F03: Kasımpaşa
+7003: Lechia
+7103: Huesca
+7203: PS Kemi Kings
+7303: Changchun Yatai
+7403: Carpi
+7503: Tijuana
+7603: CFR Cluj
+7703: Śląsk
+7803: Shanghai Shenhua
+7903: Famalicão
+7A03: Olympik
+7B03: Trapani
+7C03: FK Spartak Subotica
+7D03: Chapecoense
+7E03: Atlético GO
+7F03: LDU Quito
+8003: Melbourne Knights
+8103: Parramatta
+8203: Pandurii
+8303: Persepolis
+8403: Fleetwood
+8503: Ingolstadt
+8603: Hacettepe
+8703: Panetolikos
+8803: Asteras Tripolis
+8903: Lugo
+8A03: Granada
+8B03: Universitario de Sucre
+8C03: Paks
+8D03: Diósgyor
+8E03: 1461 Trabzon
+8F03: Alanyaspor
+9003: Pendikspor
+9103: Bugsaş
+9203: Adelaide City
+9303: Sydney United
+9403: Blacktown City
+9503: FK Minsk
+9603: Wellington Phoenix
+9703: Solihull
+9803: FK Decic
+9903: Buriram Utd
+9A03: Manly United
+9B03: Lokomotiva
+9C03: Dukla Prague
+9D03: Mladost Lucani
+9E03: Heidenheim
+9F03: Großaspach
+A003: Sportfreunde Lotte
+A103: Henan Jianye
+A203: Hangzhou Greentown
+A303: Guangzhou Evergrande T
+A403: Juan Aurich
+A503: Royal Excel Mouscron
+A603: HIFK
+A703: Ilves
+A803: Arouca
+A903: Gaz Metan
+AA03: RB Leipzig
+AB03: Szombathelyi Haladás
+AC03: Sillamäe Kalev
+AD03: Vitez
+AE03: Independiente
+AF03: Concordia Chiajna
+B003: FC Botoşani
+B103: Astra Giurgiu
+B203: A.S.A. Tg. Mureş
+B303: Viitorul Constanţa
+B403: Split
+B503: Jiangsu Suning
+B603: Krasnodar
+B703: Entella
+B803: Pro Vercelli
+B903: Menemen Belediy
+BA03: Astana
+BB03: Paide LM
+BC03: Nieciecza
+BD03: CD Tondela
+BE03: Yeni Malatyaspo
+BF03: SJK
+C003: Patronato
+C103: Tractor Sazi
+C203: Binh Duong
+C303: Balıkesirspor
+C403: Akzhayik
+C503: FK Stumbras
+C603: ACS Poli Timișoara
+C703: Melbourne City
+C803: Lakhwiya
+C903: Chester FC
+CA03: Wolfsberger
+CB03: Orenburg
+CC03: Gwangju
+CD03: Guangzhou R&F
+CE03: Guizhou Zhicheng
+CF03: Shanghai SIPG
+D003: Tianjin Quanjian
+D103: Yanbian Funde
+D203: Platanias
+D303: Shijiazhuang Ever Brig
+D403: Spartaks Jurmala
+D503: Western Sydney
+D603: Al-Fateh
+D703: Hajer
+D803: Al-Faisaly
+D903: Al-Taawon
+DA03: FC Ufa
+DB03: Mezokövesd
+DC03: Llagostera
+DD03: CS Uni Craiova
+DE03: Al-Khaleej
+DF03: Slutsk
+E003: FK Gorodeya
+E103: Harimau Muda
+E203: Home United
+E303: FC Infonet
+E403: FK Trakai
+E503: Real Garcilaso
+E603: Kauno Žalgiris
+E703: Singapore RC
+E803: Police Sports A
+E903: Étoile FC
+EA03: FC Nippon
+EB03: FK Radnik
+EC03: FK Mladost
+ED03: FK Iskra
+EE03: FC Voluntari
+EF03: FK Krumkachy
+F003: FK Isloch
+F103: Tarvas
+F203: Hebei CF
+F303: RFS
+F403: Ümraniye Kulubu
+F503: Gyirmót
+F603: UCAM Murcia
+F703: Cova da Piedade
+F803: Krupa
+F903: Metalleghe-BSI
+FA03: Bačka
+FB03: Karmiotissa
+FC03: AEZ
+FD03: Al-Batin
